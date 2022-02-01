@@ -1,2 +1,7 @@
 # Dio-NewPJgit-primeiro-Reposit
-desafio- github
+repositorio criado para o desafio de DIO.
+
+ desafio- github
+## Links Úteis
+[Sintaxe basica Markdown](https://www.markdownguide.org/getting-started/)
+
